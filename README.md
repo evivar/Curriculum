@@ -61,8 +61,6 @@
 #### Lenguajes de programación y frameworks manejados:
   + C++
   + Java
-  + Vaadin Framework
-  + Spring MVC Framework
   + C
   + HTML
   + CSS
@@ -71,11 +69,12 @@
   + Visual Basic
   + XML
   + Bash
-  + Phyton
   + Markdown
   + LaTex
   + Bootstrap
-  + Quintus for JS Videogames
+  + Vaadin Framework
+  + Spring MVC Framework
+  + Quintus Framework for JS Videogames
   
 #### Otros conocimientos:
   + Lenguaje unificado de modelado, UML
