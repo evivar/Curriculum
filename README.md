@@ -1,6 +1,6 @@
 # **Ernesto Vivar Laviña**
 
-   <img src="https://raw.githubusercontent.com/evivar/Imagenes/master/Ernesto.jpg" style="width: 511px; height: 456px;" >
+   <img src="https://raw.githubusercontent.com/evivar/Imagenes/master/Ernesto.jpg" style="width: 511px; height: 456px; position: center" >
 
 ## **Información personal**
 
@@ -16,6 +16,10 @@
 + Linkedin: [Ernesto Vivar](https://www.linkedin.com/in/ernesto-vivar-lavi%C3%B1a-a32162169/)
 + Github: [Ernesto Vivar](https://github.com/evivar)
 
+### **¿Quién soy?**
+Nací en Madrid y tengo 21 años.
+
+Soy un estudiante de 4º de carrera de Ingeniería de Software de la Universidad Complutense de Madrid. Además soy un apasionado de las nuevas tecnologías y de la programación.
 
 
 ## **Formación académica**
@@ -34,7 +38,7 @@
 | Árbitro regional de esgrima        | Federación Madrileña de esgrima      | 2015          | 2015     |
 | Árbitro nacional de esgrima | Real Federación Española de esgrima        | 2016          | 2016       |
 
-  ### **Otros conocimientos**
+  ### **Habilidades técnicas**
 
 #### Software manejado:
   + Paquete de Microsoft Office
@@ -65,6 +69,8 @@
   + HTML
   + CSS
   + JavaScript
+  + Node.js
+  + Express
   + PL/SQL
   + Visual Basic
   + XML
@@ -78,6 +84,7 @@
   
 #### Otros conocimientos:
   + Lenguaje unificado de modelado, UML
+  + Metodologías tradicionales como RUP
   + Metodologías ágiles como Scrum, Kanban o Scrumban
   + Filezilla FTP
   + Microsoft azure para desplegar apliaciones web
@@ -92,6 +99,7 @@
 + Diseñador web y Web master de páginas web como:
     + [Pepu Alcalde](http://pepualcalde.org/)
     + [Tecrima](https://www.tecrima.com/)
++ Camarero en el restaurante Covanegra(Capdepera, Mallorca)
 
 
 ## **Otra información**
