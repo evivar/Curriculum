@@ -16,7 +16,7 @@
 + Linkedin: [Ernesto Vivar](https://www.linkedin.com/in/ernesto-vivar-lavi%C3%B1a-a32162169/)
 + Github: [Ernesto Vivar](https://github.com/evivar)
 
-### **¿Quién soy?**
+### ** Sobre mi **
 Nací en Madrid y tengo 21 años.
 
 Soy un estudiante de 4º de carrera de Ingeniería de Software de la Universidad Complutense de Madrid. Además soy un apasionado de las nuevas tecnologías y de la programación.
