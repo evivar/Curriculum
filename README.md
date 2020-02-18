@@ -17,7 +17,7 @@
 + Github: [Ernesto Vivar](https://github.com/evivar)
 
 ### **Sobre mi**
-Nací en Madrid y tengo 21 años.
+Nací en Madrid y tengo 22 años.
 
 Soy un estudiante de 4º de carrera de Ingeniería de Software de la Universidad Complutense de Madrid. Además soy un apasionado de las nuevas tecnologías y de la programación.
 
