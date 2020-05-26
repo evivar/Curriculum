@@ -100,7 +100,7 @@ Soy un estudiante de 4º de carrera de Ingeniería de Software de la Universidad
     + [Pepu Alcalde](http://pepualcalde.org/)
     + [Tecrima](https://www.tecrima.com/)
 + Camarero en el restaurante Covanegra(Capdepera, Mallorca)
-
++ Becario como Ingeniero de Software en Avanade S.L.U
 
 ## **Otra información**
 
