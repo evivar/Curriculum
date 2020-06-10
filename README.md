@@ -1,6 +1,6 @@
 # **Ernesto Vivar Laviña**
 
-   <img src="https://raw.githubusercontent.com/evivar/Imagenes/master/Ernesto.jpg" style="width: 511px; height: 456px; position: center" >
+   <img src="https://raw.githubusercontent.com/evivar/Imagenes/master/ErnesOrla.jpg" style="width: 511px; height: 456px; position: center" >
 
 ## **Información personal**
 
