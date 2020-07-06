@@ -99,6 +99,7 @@ I'm a 4th year software engineering student at the Universidad Complutense de Ma
     + [Tecrima](https://www.tecrima.com/)
 + Waiter at Covanegra Restaurant(Capdepera, Mallorca)
 + Software Engineer Intern at Avanade S.L.U
++ Junior Developer at Aghasa Turis
 
 ## **Other Info**
 
