@@ -71,6 +71,8 @@ Soy un estudiante de 4º de carrera de Ingeniería de Software de la Universidad
   + JavaScript
   + Node.js
   + Express
+  + Vue.js
+  + Nuxt.js
   + PL/SQL
   + Visual Basic
   + XML
