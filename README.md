@@ -17,9 +17,10 @@
 + Github: [Ernesto Vivar](https://github.com/evivar)
 
 ### **Sobre mi**
-Nací en Madrid y tengo 22 años.
+Nací en Madrid y tengo 23 años.
 
-Soy un estudiante de 4º de carrera de Ingeniería de Software de la Universidad Complutense de Madrid. Además soy un apasionado de las nuevas tecnologías y de la programación.
+Soy un Ingeniero de Software por la Universidad Complutense de Madrid. Recientemente, en julio de 2020 acabé mis estudios de Ingeniería del Software desarrollando como Trabajo de Fin de Grado una [aplicación para recogida de datos en estudio clínico](https://eprints.ucm.es/id/eprint/62036/1/VIVAR_LAVINA_TFG_Ernesto_Vivar_Lavina_4398577_1929856684.pdf)
+Además soy un apasionado de las nuevas tecnologías y de la programación.
 
 
 ## **Formación académica**
@@ -103,7 +104,7 @@ Soy un estudiante de 4º de carrera de Ingeniería de Software de la Universidad
     + [Tecrima](https://www.tecrima.com/)
 + Camarero en el restaurante Covanegra(Capdepera, Mallorca)
 + Becario como Ingeniero de Software en Avanade S.L.U
-+ Programador Junior en Aghasa Turis
++ Programador en Aghasa Turis
 
 ## **Otra información**
 
