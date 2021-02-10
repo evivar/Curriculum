@@ -28,7 +28,7 @@ Además soy un apasionado de las nuevas tecnologías y de la programación.
 |---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
 | Educación Primaria y Educación Secundaria Obligatoria, E.S.O | Colegio Santísimo Sacramento            | 2000          | 2014       |
 | Bachillerato Científico-tecnológico                                                | I.E.S Fortuny | 2014          | 2016       |
-| Grado en Ingeniería del Software        | Universidad Complutense de Madrid, U.C.M.      | 2016          | Actualmente cursando 4º      |
+| Grado en Ingeniería del Software        | Universidad Complutense de Madrid, U.C.M.      | 2016          | 2020     |
 
   
  ### **Formación complementaria**
