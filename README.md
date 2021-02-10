@@ -19,8 +19,7 @@
 ### **Sobre mi**
 Nací en Madrid y tengo 23 años.
 
-Soy un Ingeniero de Software por la Universidad Complutense de Madrid. Recientemente, en julio de 2020 acabé mis estudios de Ingeniería del Software desarrollando como Trabajo de Fin de Grado una [aplicación para recogida de datos en estudio clínico](https://eprints.ucm.es/id/eprint/62036/1/VIVAR_LAVINA_TFG_Ernesto_Vivar_Lavina_4398577_1929856684.pdf)
-Además soy un apasionado de las nuevas tecnologías y de la programación.
+Soy un Ingeniero de Software por la Universidad Complutense de Madrid. Recientemente, en julio de 2020 acabé mis estudios de Ingeniería del Software desarrollando como Trabajo de Fin de Grado una [aplicación para recogida de datos en estudio clínico](https://eprints.ucm.es/id/eprint/62036/1/VIVAR_LAVINA_TFG_Ernesto_Vivar_Lavina_4398577_1929856684.pdf). Además soy un apasionado de las nuevas tecnologías y de la programación.
 
 
 ## **Formación académica**
