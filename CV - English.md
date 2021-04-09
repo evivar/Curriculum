@@ -1,10 +1,10 @@
 # **Ernesto Vivar Laviña**
 
-   <img src="https://raw.githubusercontent.com/evivar/Imagenes/master/ErnesOrla.jpg" style="width: 511px; height: 456px; position: center" >
+   <img src="https://raw.githubusercontent.com/evivar/Imagenes/master/ErnesOrla.jpg" style="width: 420px; height: 456px; position: center" >
 
 ## **Personal info**
 
-+ Date of birth: 22 de Enero de 1998
++ Date of birth: January 22nd, 1998
 + Phone: 651 408 843
 + Driver License: B1
   
@@ -16,16 +16,16 @@
 
 ### **About me**
 
-I was born in Madrid and I'm 22.
+I was born in Madrid and I'm 23.
 
-I'm a 4th year software engineering student at the Universidad Complutense de Madrid. I am also passionate about new technologies and programming.
+I'm a Software Engineer by The Complutense University of Madrid. In July 2020 I finished my degree developing as Final Degree Project an [application for data collection in clinical study](https://eprints.ucm.es/id/eprint/62036/1/VIVAR_LAVINA_TFG_Ernesto_Vivar_Lavina_4398577_1929856684.pdf). I am also passionate about new technologies and programming
 
 ## **Academic background**
   | Name                                                              | School                    | Start Date | End Date |
 |---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
 | Educación Primaria y Educación Secundaria Obligatoria, E.S.O | Colegio Santísimo Sacramento            | 2000          | 2014       |
 | Bachillerato Científico-tecnológico                                                | I.E.S Fortuny | 2014          | 2016       |
-| Grado en Ingeniería del Software        | Universidad Complutense de Madrid, U.C.M.      | 2016          | Actualmente cursando 4º      |
+| Software Engineering Degree        | Universidad Complutense de Madrid, U.C.M.      | 2016          | 2020      |
 
   
  ### **Other background**
