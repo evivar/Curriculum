@@ -103,7 +103,9 @@ Soy un Ingeniero de Software por la Universidad Complutense de Madrid. Recientem
     + [Tecrima](https://www.tecrima.com/)
 + Camarero en el restaurante Covanegra(Capdepera, Mallorca)
 + Becario como Ingeniero de Software en Avanade S.L.U
+   + Durante la beca fue mayormente formación en tecnologías web como AngularJS
 + Programador en Aghasa Turis
+   + Actualmente mis funciones constan del desarrollo e implementación de aplicaciones tanto web como de escritorio utilizando tecnologías web como Node.js, ExpressJS, Vue.js, etc...
 
 ## **Otra información**
 
