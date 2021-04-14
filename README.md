@@ -102,9 +102,9 @@ Soy un Ingeniero de Software por la Universidad Complutense de Madrid. Recientem
     + [Pepu Alcalde](http://pepualcalde.org/)
     + [Tecrima](https://www.tecrima.com/)
 + Camarero en el restaurante Covanegra(Capdepera, Mallorca)
-+ Becario como Ingeniero de Software en Avanade S.L.U
++ Becario como Ingeniero de Software en Avanade S.L.U: Ene. 2020 - May. 2020
    + Durante la beca fue mayormente formación en tecnologías web como AngularJS
-+ Programador en Aghasa Turis
++ Programador en Aghasa Turis: Jun. 2020 - Actualidad
    + Actualmente mis funciones constan del desarrollo e implementación de aplicaciones tanto web como de escritorio utilizando tecnologías web como Node.js, ExpressJS, Vue.js, etc...
 
 ## **Otra información**
