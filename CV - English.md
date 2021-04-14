@@ -98,9 +98,9 @@ I'm a Software Engineer by The Complutense University of Madrid. In July 2020 I 
     + [Pepu Alcalde](http://pepualcalde.org/)
     + [Tecrima](https://www.tecrima.com/)
 + Waiter at Covanegra Restaurant(Capdepera, Mallorca)
-+ Software Engineer Intern at Avanade S.L.U
++ Software Engineer Intern at Avanade S.L.U: Jan. 2020 - May. 2020
     + During the internship it was mostly training in web technologies such as AngularJS.
-+ Junior Developer at Aghasa Turis
++ Junior Developer at Aghasa Turis: Jun. 2020 - Present
     + Currently my functions consist of the development and implementation of web and desktop applications using web technologies such as Node.js, ExpressJS, Vue.js, etc...
 
 ## **Other Info**
