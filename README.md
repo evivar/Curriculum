@@ -5,7 +5,6 @@
 ## **Información personal**
 
 + Fecha de nacimiento: 22 de Enero de 1998
-+ Domicilio: C/ Alejandro Rodríguez 16, Bj C
 + Teléfono: 651 408 843
 + DNI: 51519666-B
 + Carné de conducir: B1
@@ -17,7 +16,7 @@
 + Github: [Ernesto Vivar](https://github.com/evivar)
 
 ### **Sobre mi**
-Nací en Madrid y tengo 23 años.
+Nací en Madrid y tengo 24 años.
 
 Soy un Ingeniero de Software por la Universidad Complutense de Madrid. Recientemente, en julio de 2020 acabé mis estudios de Ingeniería del Software desarrollando como Trabajo de Fin de Grado una [aplicación para recogida de datos en estudio clínico](https://eprints.ucm.es/id/eprint/62036/1/VIVAR_LAVINA_TFG_Ernesto_Vivar_Lavina_4398577_1929856684.pdf). Además soy un apasionado de las nuevas tecnologías y de la programación.
 
@@ -73,6 +72,7 @@ Soy un Ingeniero de Software por la Universidad Complutense de Madrid. Recientem
   + Express
   + Vue.js
   + Nuxt.js
+  + Sequelize ORM
   + PL/SQL
   + Visual Basic
   + XML
@@ -104,8 +104,10 @@ Soy un Ingeniero de Software por la Universidad Complutense de Madrid. Recientem
 + Camarero en el restaurante Covanegra(Capdepera, Mallorca)
 + Becario como Ingeniero de Software en Avanade S.L.U: Ene. 2020 - May. 2020
    + Durante la beca fue mayormente formación en tecnologías web como AngularJS
-+ Programador en Aghasa Turis: Jun. 2020 - Actualidad
-   + Actualmente mis funciones constan del desarrollo e implementación de aplicaciones tanto web como de escritorio utilizando tecnologías web como Node.js, ExpressJS, Vue.js, etc...
++ Programador en Aghasa Turis: Jun. 2020 - Jun. 2021
+   + Desarrollo e implementación de aplicaciones tanto web como de escritorio utilizando tecnologías web como Node.js, ExpressJS, Vue.js, etc...
++ Software Developer en FutureSpace: Jun. 2021 - Actualidad
+   + Actualmente trabajando con tecnologías como Java, Vue.js entre otras
 
 ## **Otra información**
 
