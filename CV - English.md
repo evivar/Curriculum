@@ -16,7 +16,7 @@
 
 ### **About me**
 
-I was born in Madrid and I'm 23.
+I was born in Madrid and I'm 24.
 
 I'm a Software Engineer by The Complutense University of Madrid. In July 2020 I finished my degree developing as Final Degree Project an [application for data collection in clinical study](https://eprints.ucm.es/id/eprint/62036/1/VIVAR_LAVINA_TFG_Ernesto_Vivar_Lavina_4398577_1929856684.pdf). I am also passionate about new technologies and programming
 
@@ -69,6 +69,7 @@ I'm a Software Engineer by The Complutense University of Madrid. In July 2020 I 
   + JavaScript
   + Node.js
   + Express
+  + Sequelize ORM 
   + PL/SQL
   + Visual Basic
   + XML
@@ -100,8 +101,9 @@ I'm a Software Engineer by The Complutense University of Madrid. In July 2020 I 
 + Waiter at Covanegra Restaurant(Capdepera, Mallorca)
 + Software Engineer Intern at Avanade S.L.U: Jan. 2020 - May. 2020
     + During the internship it was mostly training in web technologies such as AngularJS.
-+ Junior Developer at Aghasa Turis: Jun. 2020 - Present
-    + Currently my functions consist of the development and implementation of web and desktop applications using web technologies such as Node.js, ExpressJS, Vue.js, etc...
++ Junior Developer at Aghasa Turis: Jun. 2020 - Jun. 2021
+    + Development and implementation of web and desktop applications using web technologies such as Node.js, ExpressJS, Vue.js, etc...
++ Software Developer at FutureSpace: Jun. 2021 - Present
 
 ## **Other Info**
 
