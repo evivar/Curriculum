@@ -64,7 +64,6 @@ Soy un Ingeniero de Software por la Universidad Complutense de Madrid. Recientem
 #### Lenguajes de programación y frameworks manejados:
   + C++
   + Java
-  + C
   + HTML
   + CSS
   + JavaScript
@@ -80,8 +79,6 @@ Soy un Ingeniero de Software por la Universidad Complutense de Madrid. Recientem
   + Markdown
   + LaTex
   + Bootstrap
-  + Vaadin Framework
-  + Spring MVC Framework
   + Quintus Framework for JS Videogames
   
 #### Otros conocimientos:
